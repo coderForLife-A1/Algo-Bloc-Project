@@ -1,0 +1,27 @@
+Q.1) What does 'VI' stand for in COVID-19?
+	1. VI - Video
+	-2. VI - Virus
+	3. VI - Vial
+	4. VI - Village
+
+Q.2) Who described the word - COVID-19?
+	1. Tessy Thomas
+	2. Palak Muchhal
+	3. Charles Correa
+-4. Tedros Adhanom
+
+Q.3) Identify the most common symptoms of COVID-19.
+	1. Vomiting
+	2. Dysentry
+	-3. Fever
+	4. Loss of sight
+
+Q.4) Identify the serious symptoms of COVID-19.
+	-1. Chest Pain
+	2. Abdominal Pain
+	3. Fainting
+	4. Cramps
+
+Q.5) Have you taken Covid vaccine?
+	1. Yes
+	2. No
