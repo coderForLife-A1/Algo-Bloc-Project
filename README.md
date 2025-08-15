@@ -1,2 +1,2 @@
-# Algo-Bloc-Project
-Project made for Algo Bloc inter-school competion
+- The Project was made for Algo Bloc inter-school Competion in 2021
+- It's main objective was to spread awareness about Covid-19 and it's symptoms, precaution and care
